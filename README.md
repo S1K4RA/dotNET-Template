@@ -7,7 +7,7 @@ How To Use
 3. Restart Visual Studio
 4. Load project as template for new project(s)
 5. Open .csproj file in Text Editor App
-6. Comment this line 
+6. Comment this line (If still exist)
 
 ```
  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
